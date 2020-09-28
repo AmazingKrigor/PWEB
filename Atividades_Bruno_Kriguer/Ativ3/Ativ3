@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>Internet das Coisas</title>
+        <meta name="author" content=Bruno Kriguer/>
+        <meta charset="utf-8"/> 
+       <title>Que a mágica aconteça!</title>
+    </head>
+    <body bgcolor="#000000" text="#FFFFFF">
+        <body background="https://i.imgur.com/PgnQigP.png" style="background-repeat:yes-repeat">
+        <em><h1>Internet das Coisas</h1></em>
+        <br><br><br><br>
+        <p>
+    <OL>
+        <LI>Introdução</LI>
+        <LI>O que é? </LI>
+        <LI>Como Funciona? </LI>
+        <LI>Conceitos SUbsequentes</LI>
+        <LI>Conclusão</LI>
+        <LI>Referências</LI>
+    </OL>
+            <DL>
+            <DT><h2>Introdução</h2></DT>
+        <br><br><br>
+        <DD>
+	A internet fazer parte das nossas vidas não é algo novo e nem estranho para as pessoas atualmente, de aulas online ao simples verificar email no celular numa fila de espera, estar conectado sempre será uma atividade corrente do dia a dia.
+	Neste texto, será explicado o conceito Internet das Coisas(Internet of Things).
+        </DD>
+	<br>
+                <DT><h2>O que é?</h2></DT>
+                
+        <DD>
+    <br><br><br>
+	Internet das coisas é a ideia de conectar objetos à internet, de uma câmera de segurança que pode ser vista do celular à um marcapasso que informa um médico em tempo real a situação do paciênte.
+	A ideia de conectar objetos é discutida desde 1991, quando a conexão TCP/IP e a Internet que conhecemos hoje começou a se popularizar. Bill Joy, cofundador da Sun Microsystems, pensou sobre a conexão de Device para Device (D2D).
+	Em 1999, Kevin Ashton do MIT propôs o termo “Internet das Coisas" e dez anos depois escreveu o artigo “A Coisa da Internet das Coisas” para o RFID Journal.
+                </DD>
+    <br><br>
+                <DT><h2>Como funciona?</h2></DT>
+    <br><br><br>
+                <DD>
+Qualquer aparelho eletrônico poderá obter identificação por rádio frequência (RFID), que será guardada em banco de dados, viabilizando o IOT. 
+Em primeiro lugar, para ligar os objetos e aparelhos do cotidiano a grandes bases de dados e as redes à rede das redes, à Internet, é necessário um sistema eficiente de identificação. Só desta forma se torna possível interligar e arquivar os dados próprios de cada coisa. A identificação por rádio frequência conhecida como RFID é um exemplo da tecnologia que oferece esta funcionalidade, mas não é a única (Ver NFC e Bluetooth p. ex.). Em segundo lugar, a base de dados beneficiará da capacidade de detectar mudanças na qualidade física das coisas, recorrendo a métodos sensoriais. A inteligência inerente a cada objeto aumentará a capacidade de a rede devolver a informação processada para diferentes pontos. Finalmente, os avanços alcançados pela miniaturização e pela nanotecnologia implicam que cada vez mais objetos pequenos terão a capacidade de interagir e de se conectar. A combinação desses desenvolvimentos implementará a Internet das coisas, que interliga objetos reais de um modo sensorial e inteligente. 
+Assim, com os benefícios da informação integrada, os produtos industriais e os objetos de uso diário poderão vir a ter identidades eletrônicas ou ser equipados com sensores que detectam mudanças físicas à sua volta. Até mesmo partículas de pó poderão ser etiquetadas e colocadas na rede. Estas mudanças transformarão objetos estáticos em coisas novas e dinâmicas, induzindo inteligência no meio e estimulando a criação de produtos inovadores e de novos serviços. 
+    <br><br>
+                </DD>
+                <DT><h2>Conceitos Subsequentes</h2></DT>
+     <br>
+        <DD>
+            <blockquote>Abaixo serão citados alguns conceitos que se baseam ou são usados em paralelos ao Internet of Things.</blockquote>
+            <UL>
+            <br><br>
+                <LI>Smart Cities</LI>
+            <br>
+            <br>
+A ideia das chamadas Smart Cities é direcionar os avanços na tecnologia e armazenamento de dados – que fazem da Internet das Coisas uma realidade – para o ambiente e infraestrutura que nós vivemos.
+É possível desenvolver sistemas de transporte, de controle de resíduos, de energia, e até de execução das leis que sejam movidos a dados para torná-los mais eficientes e melhorar a qualidade de vida nas cidades.
+Nós podemos interagir e colher informações desses sistemas inteligentes usando nossos smartphones, relógios e outros wearables. Mais do que isso, os sistemas vão se comunicar uns com os outros.
+Caminhões de lixo podem ser alertados de onde tem lixo que precisa ser coletado, e sensores nos nossos carros vão nos direcionar para onde há vagas disponível que podemos parar, assim como os ônibus podem atualizar sua localização em tempo real, e assim por diante.
+Neste sentido, a tendência de crescimento do mercado de carros individuais e de transporte de carga por veículos autônomos é um grande passo de mobilidade urbana possibilitado pelo avanço da Internet das Coisas.
+            <br><br>
+                        <LI>Big Data</LI>
+            <br><br>
+Big data é um termo recente e por isso não existente na maior parte de dicionários de estatística. São dados multivariados e de elevada dimensão, geralmente criados em tempo real e apresentam um crescimento exponencial (na escala temporal), nomeados de megadados. 
+Quanto mais dados são gerados, maior é o esforço para extrair informações, e os centros de dados tiveram que aprender a lidar com o crescimento exponencial de dados gerados e tiveram que desenvolver ferramentas que fossem para além de bancos de dados relacionais e sistemas paralelos de bancos de dados. Sendo assim, a velocidade para obter a informação faz parte do sucesso que o big data pode proporcionar em sua empresa. 
+	<br><br>
+        </UL>
+                </DD>
+                
+                <DT><h2>Conclusão</h2></DT>
+            <br><br><br>
+                <DD>
+	Cada vez mais, praticamente tudo ao nosso redor estará conectado. Conectar diferentes objetos e dispositivos à internet é uma tendência que se torna natural ao longo dos anos. De cidades futuristas se tornando realidade ao simples cartão com chip magnético, o futuro aparenta seguir um caminho voltado à conexão de internet e a Internet das Coisas sempre irá crescer enquanto oportunidades existirem.
+                </DD>
+<br><br><br>
+
+
+
+
+ 
+
+                <DT><h2>Referências</h2></DT>
+                <DD>
+<br><br>
+AUTOR Pedro Zambarda, TÍTULO ‘Internet das Coisas’: entenda o conceito e o que muda com a tecnologia. DATA 16/08/2014
+https://www.techtudo.com.br/noticias/noticia/2014/08/internet-das-coisas-entenda-o-conceito-e-o-que-muda-com-tecnologia.html 
+<br><br>
+ORIGEM: Wikipédia, a enciclopédia livre(Wikipedia, the free online encyclopedia, Nome do site em inglês), TÍTULO Internet das coisas
+https://pt.wikipedia.org/wiki/Internet_das_coisas
+<br><br>
+AUTOR Julia Villarino, TÍTULO Internet das Coisas: Um Desenho do Futuro
+DATA 14/01/2019
+https://www.proof.com.br/blog/internet-das-coisas
+<br><br>
+ORIGEM: Wikipédia, a enciclopédia livre(Wikipedia, the free online encyclopedia, Nome do site em inglês), TÍTULO Big Data
+https://pt.wikipedia.org/wiki/Big_data
+<br><br>
+                </DD>   
+            </DL>
+	</p>
+        
+    </body>
+</html>
+
