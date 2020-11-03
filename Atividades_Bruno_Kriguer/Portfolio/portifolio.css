@@ -1,0 +1,93 @@
+body {
+    background: #5f5f5f;
+        background-repeat: no-repeat;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+    sans-serif;
+    line-height: 1.5;
+    /*background-size: cover;s
+        background-attachment: scroll;*/
+    }
+    
+    
+    .container {
+    margin: 0 auto;
+    width: 960px;
+    }
+    
+    article {
+    background-color: #FFF;
+    border: 5px solid ;
+    border-radius: 25px;
+    border-color: #CCC #999 #999 #CCC;
+    margin-bottom: 20px;
+    padding: 10px; /* espaçamento entre a borda e o título */
+    
+    }
+    
+    
+    article h2 {
+    border-bottom: 1px dashed #7E9F19;
+    margin: 0;
+    }
+    
+    /* article img {
+    border: 1px solid #7E9F19;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+    width: 160px;
+    height: 160px;
+    } */
+    
+    article a { /* mudando a cor dos links para negrito */
+    color: #2C88A7;
+    font-weight: bold;
+    }
+    
+    header h1 a {
+    color: #000000;
+    text-decoration: none;
+    margin-left:250px;
+    }
+    
+    header h1 a:hover { /* mudando a cor do link quando posicionado */
+    background-color: #7E9F19;
+    color: #FFF;
+    }
+    
+    .clear { /* para a imagem nao "ficar fora" quando usa o float */
+    clear: both;
+    }
+    
+    footer {
+    color: #FFFAF0;
+    font-size: 12px;
+    text-align: center;
+    }
+    
+    section { /* para a barra lateral lista e titulo */
+    float: right;
+    width: 660px;
+    }
+    
+    aside {
+    background-color: #000000;
+    border: 1px solid #ffc800;
+    padding: 1px;
+    float: left;
+    width: 200px;
+    margin: 10px 0px;
+    color:  #ffc800;
+    }
+
+    aside img{
+        width: inherit;
+    }
+    aside h3 {
+    font-size: 14px;
+    margin-top: 0;
+    }
+    
+    aside ol {
+    font-size: 12px;
+    }
